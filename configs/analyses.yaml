@@ -1,0 +1,13 @@
+# Extracted analysis step names for scripts/run_analysis.py
+analyses:
+  - dmnt_dose
+  - dmnt_time
+  - dmnt_leaves
+  - dmnt_genotype
+  - single_os
+  - triple_damage
+  - single_herbivore
+  - glv_hires
+  - gene_expression
+  - os_time_cut
+  - os_resolution_adjusted
