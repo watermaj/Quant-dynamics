@@ -16,7 +16,7 @@ Affiliations:
 
 The paper itself is included in this repository as:
 
-- [Quantitative modelling of biological response dynamics reveals novel patterns in plant volatile signalling.pdf](./Quantitative%20modelling%20of%20biological%20response%20dynamics%20reveals%20novel%20patterns%20in%20plant%20volatile%20signalling.pdf)
+- [Quantitative modelling of biological response dynamics reveals novel patterns in plant volatile signalling](https://elifesciences.org/reviewed-preprints/111313)
 
 ## What This Project Is
 
