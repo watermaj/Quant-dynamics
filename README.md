@@ -98,7 +98,7 @@ python scripts/run_analysis.py --analysis dmnt_dose
 
 ## For Readers Of The Paper
 
-If your main goal is to understand the scientific context, start with the PDF paper. If your main goal is to reproduce the submitted computational outputs, start with the script runner and the regression comparison command above.
+If your main goal is to understand the scientific context, start with the paper itself. If your main goal is to reproduce the submitted computational outputs, start with the script runner and the regression comparison command above.
 
 ## Troubleshooting
 
